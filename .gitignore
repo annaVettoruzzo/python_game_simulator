@@ -1,0 +1,4 @@
+# dir
+.vscode/
+src/game_players/__pycache__
+src/game_simulators/__pycache__
